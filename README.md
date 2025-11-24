@@ -41,23 +41,4 @@ To verify the functionality of the project, follow these test cases:
 **Test Case 3: Invalid Input**
 1.  Run the program.
 2.  When asked for a choice, enter `5`.
-3.  **Expected Output:** `Hmm, that's not a valid option. Try 1, 2, or 3.`
-
-## Screenshots
-*(Note: As this is a text-based submission, please run the code to view the interface. Below is a representation of the console output.)*
-
-```text
-==================================================
-Welcome to Morse Code Translator!
-==================================================
-
-What would you like to do?
-  1 - Turn text into morse code
-  2 - Turn morse code into text
-  3 - I'm done, exit
-
-Your choice: 1
-
-Type something: Python
-Here's your morse code:
-.--. -.-- - .... --- -.
+3.  **Expected Output:** `Hmm, that's not a valid option. Try 1, 2, or 3.
